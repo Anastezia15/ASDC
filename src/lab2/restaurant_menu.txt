@@ -1,0 +1,17 @@
+ 2,Tartarus from salmon,170,150,Standard,Snack
+ 11,Roast beef,280,370,Standard,Meat
+ 13,Lamb shank with spinach,405,300,Standard,Meat
+ 4,Risotto,75,300,Diet,Garnish
+ 3,Vegetables on Grill,70,250,Diet,Garnish
+ 14,Filet mignon with truffle,290,330,Standard,Meat
+ 1,Greek salad,110,300,Diet,Salad
+ 15,Sea bass fillet,310,400,Standard,Fish
+ 6,Ravioli with veal and mushroom sauce,180,370,Standard,Garnish
+ 7,Pumpkin soup,80,340,Diet,Soup
+ 12,Pork steak,80,300,Standard,Meat
+ 8,Baked Salmon,310,280,Diet,Fish
+ 16,Chicken soup,70,370,Standard,Soup
+ 9,Dorado Grill,310,320,Diet,Fish
+ 10,Burger with Beef,185,320,Standard,Meat
+ 5,Fettuccine with baby squid,180,350,Standard,Garnish
+ 17,Vegan Soup,120,350,Diet,Soup
