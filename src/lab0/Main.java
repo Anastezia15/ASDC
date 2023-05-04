@@ -9,7 +9,7 @@ import static lab0.Dish.*;
 public class Main {
     public static void main(String[] args) {
         try {
-            File restaurantDishes= new File("D:\\Intelliji\\ASDC\\src\\lab0" +
+            File restaurantDishes= new File("D:\\IntelliJ\\ASDC\\src\\lab0" +
                     "\\restaurant_menu.txt");
             String[] fileStrings = inputStreamDemo(restaurantDishes);
 
