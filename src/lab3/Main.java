@@ -1,6 +1,6 @@
 package lab3;
 
-import lab2.ReadingFomFile;
+
 import lab3.binaryTree.Tree;
 import lab3.data.Dish;
 import lab3.data.ReadingFromFile;
