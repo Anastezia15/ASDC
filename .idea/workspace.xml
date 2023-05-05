@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bff9bc-0412-405f-8159-208d117d0b04" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="73bff9bc-0412-405f-8159-208d117d0b04" name="Changes" comment="lab3 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASDC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ASDC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab0/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab0/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab0/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab0/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab0/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab0/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab0/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab0/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab0/restaurant_menu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab0/restaurant_menu.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/agavriluta/Desktop/IntelliJ/ASDC&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/agavriluta/Desktop/IntelliJ/ASDC",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.lab3.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.lab4.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2.Main" />
       <module name="ASDC" />
@@ -79,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab4.Main" />
+      <module name="ASDC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab4.Main" />
         <item itemvalue="Application.lab3.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -123,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680692228092</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lab3 done">
+      <created>1683197543452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683197543452</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
